@@ -1,6 +1,6 @@
 # About Me
 
-I am an Electrical and Biomedical Engineering student at the University of Queensland. From a young age, I have been captivated by the marvels of science and technology, particularly in the field of healthcare. This fascination led me to pursue a dual degree in Electrical and Biomedical Engineering, as I firmly believe that the integration of these disciplines has the power to revolutionize the healthcare industry.
+Hi! My name is Mike Smith, I am an Electrical and Biomedical Engineering student at the University of Queensland. From a young age, I have been captivated by the marvels of science and technology, particularly in the field of healthcare. This fascination led me to pursue a dual degree in Electrical and Biomedical Engineering, as I firmly believe that the integration of these disciplines has the power to revolutionize the healthcare industry.
 
 Throughout my academic journey, I have developed a strong foundation in Electrical Engineering, honing my skills in areas such as circuit design, signal processing and software programming. This knowledge allows me to analyze and develop innovative solutions to real-world problems, utilizing the principles of electrical engineering to improve the quality of healthcare delivery.
 
