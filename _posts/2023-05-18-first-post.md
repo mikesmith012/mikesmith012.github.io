@@ -30,7 +30,7 @@ The results of the classifer were really impressive. Here is the resulting confu
 
 ![](/images/confusion_matrix.png "confusion matrix")
 
-![](/images/tsne_projection.png "tsne projection")
+![](/images/tsne_projections.png "tsne projections")
 
 The image classifer did get a couple of images wrong as shown in these top losses. But overall really good as a first image classifer!
 
