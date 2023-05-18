@@ -26,13 +26,13 @@ Firstly, we dived into the world of image classification. By leveraging pre-trai
 
 ## Results
 
-The results of the classifer were really impressive. Here is the resulting confusion matrix and t-SNE projections:
+The results of the classifier were really impressive. Here is the resulting confusion matrix and t-SNE projections:
 
 ![](/images/confusion_matrix.png "confusion matrix")
 
 ![](/images/tsne_projections.png "tsne projections")
 
-The image classifer did get a couple of images wrong as shown in these top losses. But overall really good as a first image classifer!
+The image classifier did get a couple of images wrong as shown in these top losses. But overall really good as a first image classifier!
 
 ![](/images/top_losses.png "top losses")
 
