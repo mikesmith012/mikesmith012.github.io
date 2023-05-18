@@ -1,4 +1,9 @@
-# About
+# About Me
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am an Electrical and Biomedical Engineering student at the University of Queensland. From a young age, I have been captivated by the marvels of science and technology, particularly in the field of healthcare. This fascination led me to pursue a dual degree in Electrical and Biomedical Engineering, as I firmly believe that the integration of these disciplines has the power to revolutionize the healthcare industry.
 
+Throughout my academic journey, I have developed a strong foundation in Electrical Engineering, honing my skills in areas such as circuit design, signal processing and software programming. This knowledge allows me to analyze and develop innovative solutions to real-world problems, utilizing the principles of electrical engineering to improve the quality of healthcare delivery.
+
+Furthermore, my focus on Biomedical Engineering has provided me with a deep understanding of the human body's intricate workings and the application of technology in medical devices. I have delved into subjects such as biomedical instrumentation, medical imaging and biomedical device engineering, equipping me with the tools to design and develop cutting-edge medical technologies that have the potential to save lives and enhance patient care.
+
+As I continue my journey as an Electrical and Biomedical Engineering student, I am excited to delve deeper into new technologies and contribute to the ever-evolving field of healthcare innovation. I am determined to make a meaningful difference in the lives of individuals through the fusion of Electrical Engineering principles and biomedical advancements.
